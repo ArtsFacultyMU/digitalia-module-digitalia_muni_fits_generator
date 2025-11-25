@@ -1,0 +1,8 @@
+name: 'Digitalia muni FITS generator'
+type: module
+description: 'Action to generate FITS metadata and save them to selected file field'
+package: digitalia
+core_version_requirement: ^10 || ^11
+dependencies:
+  - islandora:islandora
+  - islandora:islandora_fits

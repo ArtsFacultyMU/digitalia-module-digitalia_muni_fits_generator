@@ -1,0 +1,7 @@
+block.settings.digitalia_muni_fits_pronom_info:
+  type: block_settings
+  label: 'PRONOM info block'
+  mapping:
+    example:
+      type: string
+      label: Example
